@@ -19,8 +19,9 @@ public class JavaApplication {
      */
     public static void main(String[] args) {
         int x=10;
+        int y=20;
         //Scanner scannerObj= new Scanner(System.in);
-        System.out.println("The value assigned is "+x);// TODO code application logic here
+        System.out.println("The value assigned is "+(x+y));// TODO code application logic here
     }
     
 }
