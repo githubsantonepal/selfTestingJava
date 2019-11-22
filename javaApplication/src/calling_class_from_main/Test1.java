@@ -21,7 +21,8 @@ public class Test1 {
         messageObj.simpleMessage1();
         messageObj.simpleMessage2();
         messageObj.simpleMessage3();
-        
+        Byte myByte=new Byte("10");
+        System.out.print(myByte);
     }
     
 }
